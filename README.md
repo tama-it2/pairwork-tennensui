@@ -1,20 +1,26 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pXPlhKXe)
 # ペアワークによる共同作業練習
 
 # 課題部分
 
 ## チームメンバー
 
-### 多摩太郎（[石川ゼミ](README.md#石川先生の紹介)）
-- 趣味：街歩き
-- 特技：そろばん
+### 阿部健太（[斎藤Sゼミ](README.md#斎藤S先生の紹介)）
+- 趣味：映画鑑賞
+- 特技：けん玉
 
-### 永山　進（[出原ゼミ](README.md#出原先生の紹介)）
-- 趣味：
-- 特技：
+### 巻島　玖乃（[望月ゼミ](README.md#望月先生の紹介)）
+- 趣味：奇声を上げる。
+- 特技：inゼリー10秒で飲み干せる。
 
-## 石川先生の紹介
 
-## 出原先生の紹介
+## 斎藤S先生の紹介
+- 穏やかで生徒想いの先生
+- ゼミの時、いつも何かを買ってくれる。
+
+## 望月先生の紹介
+- 笑顔が穏やか
+- 公認会計士
 
 
 ## 作業上の注意
